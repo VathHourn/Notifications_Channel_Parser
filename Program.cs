@@ -45,8 +45,14 @@ namespace Notifications_Channel_Parser
             }
             public string Title
             {
-                set { Titles = value; }
-                get { return Titles; }                
+                get
+                {
+                    return Titles;
+                }
+                set 
+                { 
+                    Titles = value; 
+                }                
             }
             public void Input()
             {
@@ -71,8 +77,15 @@ namespace Notifications_Channel_Parser
             }
             public string Channel
             {
-                set { Channels = value; }
-                get { return Channels; }
+                get 
+                {
+                    return Channels; 
+                }
+                set 
+                { 
+                    Channels = value; 
+                }
+               
             }
             public void Output()
             {
