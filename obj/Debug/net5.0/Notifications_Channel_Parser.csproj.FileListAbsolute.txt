@@ -1,0 +1,16 @@
+C:\Users\ACER BY COMCOM\source\repos\Notifications_Channel_Parser\bin\Debug\net5.0\Notifications_Channel_Parser.exe
+C:\Users\ACER BY COMCOM\source\repos\Notifications_Channel_Parser\bin\Debug\net5.0\Notifications_Channel_Parser.deps.json
+C:\Users\ACER BY COMCOM\source\repos\Notifications_Channel_Parser\bin\Debug\net5.0\Notifications_Channel_Parser.runtimeconfig.json
+C:\Users\ACER BY COMCOM\source\repos\Notifications_Channel_Parser\bin\Debug\net5.0\Notifications_Channel_Parser.runtimeconfig.dev.json
+C:\Users\ACER BY COMCOM\source\repos\Notifications_Channel_Parser\bin\Debug\net5.0\Notifications_Channel_Parser.dll
+C:\Users\ACER BY COMCOM\source\repos\Notifications_Channel_Parser\bin\Debug\net5.0\ref\Notifications_Channel_Parser.dll
+C:\Users\ACER BY COMCOM\source\repos\Notifications_Channel_Parser\bin\Debug\net5.0\Notifications_Channel_Parser.pdb
+C:\Users\ACER BY COMCOM\source\repos\Notifications_Channel_Parser\obj\Debug\net5.0\Notifications_Channel_Parser.csproj.AssemblyReference.cache
+C:\Users\ACER BY COMCOM\source\repos\Notifications_Channel_Parser\obj\Debug\net5.0\Notifications_Channel_Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER BY COMCOM\source\repos\Notifications_Channel_Parser\obj\Debug\net5.0\Notifications_Channel_Parser.AssemblyInfoInputs.cache
+C:\Users\ACER BY COMCOM\source\repos\Notifications_Channel_Parser\obj\Debug\net5.0\Notifications_Channel_Parser.AssemblyInfo.cs
+C:\Users\ACER BY COMCOM\source\repos\Notifications_Channel_Parser\obj\Debug\net5.0\Notifications_Channel_Parser.csproj.CoreCompileInputs.cache
+C:\Users\ACER BY COMCOM\source\repos\Notifications_Channel_Parser\obj\Debug\net5.0\Notifications_Channel_Parser.dll
+C:\Users\ACER BY COMCOM\source\repos\Notifications_Channel_Parser\obj\Debug\net5.0\ref\Notifications_Channel_Parser.dll
+C:\Users\ACER BY COMCOM\source\repos\Notifications_Channel_Parser\obj\Debug\net5.0\Notifications_Channel_Parser.pdb
+C:\Users\ACER BY COMCOM\source\repos\Notifications_Channel_Parser\obj\Debug\net5.0\Notifications_Channel_Parser.genruntimeconfig.cache
