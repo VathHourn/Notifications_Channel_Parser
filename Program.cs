@@ -61,7 +61,7 @@ namespace Notifications_Channel_Parser
             }
             public void Output()
             {
-                Console.WriteLine("\n" + Titles);
+                Console.WriteLine(Titles);
             }
         }
         public class MyNotification_Channel
